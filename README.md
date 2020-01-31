@@ -1,5 +1,5 @@
 # ShellProgramWithPipe
-CS342-Operating System Project 1
+CS342-Operating Systems Project 1
 
   Simple Shell Program implemented in C to execute linux commands.
 This shell program also support composition of two commands where the output of
